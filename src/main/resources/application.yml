@@ -1,0 +1,5 @@
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+  packagesToScan: com.doogle.springsec
+  pathsToMatch: /api/v1/** /management/api/v1/**
